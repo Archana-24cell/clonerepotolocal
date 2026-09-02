@@ -3,4 +3,3 @@ lastname = input("Enter your last name")
 city = input("Enter your city")
 contact = input("Enter user contact")
 
-print(
